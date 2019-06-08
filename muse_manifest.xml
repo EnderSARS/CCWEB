@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.cloudcity.ml" resolutions="1x" timestamp="1559960024845">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.cloudcity.ml" resolutions="1x" timestamp="1559960620308">
   <folder name="css">
     <file name="site_global.css" crc="125189226"/>
     <file name="master_index.css" crc="4077215656" ref="index"/>
@@ -36,10 +36,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_index.css" crc="3831918014" ref="phone>index"/>
-      <file name="index.css" crc="3820077961" ref="phone>index"/>
+      <file name="master_index.css" crc="3783889237" ref="phone>index"/>
+      <file name="index.css" crc="3770425832" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="101950907" seo="true" mt="1559959944345" redirect="true"/>
+    <file name="index.html" crc="377409723" seo="true" mt="1559960528079" redirect="true"/>
   </folder>
-  <file name="index.html" crc="191849944" seo="true" mt="1559959350622" redirect="true"/>
+  <file name="index.html" crc="191849944" seo="true" mt="1559960597540" redirect="true"/>
 </manifest>
